@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/search-repo/static/css/main.041db95a.css",
+    "main.js": "/search-repo/static/js/main.18decc8a.js",
+    "static/css/630.4d1a0729.chunk.css": "/search-repo/static/css/630.4d1a0729.chunk.css",
+    "static/js/630.6e19f435.chunk.js": "/search-repo/static/js/630.6e19f435.chunk.js",
+    "static/css/33.04fa11a2.chunk.css": "/search-repo/static/css/33.04fa11a2.chunk.css",
+    "static/js/33.1a2634e3.chunk.js": "/search-repo/static/js/33.1a2634e3.chunk.js",
+    "index.html": "/search-repo/index.html",
+    "main.041db95a.css.map": "/search-repo/static/css/main.041db95a.css.map",
+    "main.18decc8a.js.map": "/search-repo/static/js/main.18decc8a.js.map",
+    "630.4d1a0729.chunk.css.map": "/search-repo/static/css/630.4d1a0729.chunk.css.map",
+    "630.6e19f435.chunk.js.map": "/search-repo/static/js/630.6e19f435.chunk.js.map",
+    "33.04fa11a2.chunk.css.map": "/search-repo/static/css/33.04fa11a2.chunk.css.map",
+    "33.1a2634e3.chunk.js.map": "/search-repo/static/js/33.1a2634e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.041db95a.css",
+    "static/js/main.18decc8a.js"
+  ]
+}

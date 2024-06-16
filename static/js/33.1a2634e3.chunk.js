@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksearch_repo=self.webpackChunksearch_repo||[]).push([[33],{33:(e,a,r)=>{r.r(a),r.d(a,{default:()=>c});var t=r(43),s=r(579);const c=e=>{let{onSearch:a,clear:r}=e;const[c,u]=(0,t.useState)("");return(0,t.useEffect)((()=>{r&&u("")}),[r]),(0,s.jsx)("input",{className:"input",type:"search",placeholder:"Search repo",value:c,onChange:e=>{u(e.target.value),a(e.target.value)}})}}}]);
+//# sourceMappingURL=33.1a2634e3.chunk.js.map
