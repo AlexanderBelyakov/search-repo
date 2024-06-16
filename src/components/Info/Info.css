@@ -1,0 +1,40 @@
+.info {
+  width: 50%;
+  height: 100vh;
+  background-color: rgb(255, 190, 190);
+  border-radius: 7% 0 0 7%;
+  position: sticky;
+  top: 0;
+  right: 0;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  visibility: hidden;
+}
+
+.info_visible {
+  visibility: visible;
+}
+
+.info__field {
+  font-size: 18px;
+}
+
+.info__name {
+  font-size: 40px;
+}
+
+.info__avatar {
+  margin-left: 10px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.info__owner {
+  display: flex;
+  align-items: center;
+}

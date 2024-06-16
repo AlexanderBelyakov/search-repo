@@ -1,0 +1,22 @@
+.card {
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  background-color: antiquewhite;
+  border-radius: 10px;
+  border: none;
+  outline: 1px solid rgb(118, 118, 118);
+  margin: 10px;
+  transition: linear 0.2s;
+  cursor: pointer;
+}
+
+.card:hover {
+  filter: drop-shadow(0 4px rgba(0, 0, 0, 0.5));
+}
+
+.card__field {
+  width: 200px;
+  text-align: center;
+  font-size: 18px;
+}
